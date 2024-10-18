@@ -8,7 +8,6 @@
 - ⚡ Fun fact **I might be an adaptable person🤔**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">- 🤔 Saya sedang mencari bantuan dengan ...
 <a href="https://linkedin.com/in/www.linkedin.com/in/ gilang-satriya-p-a138512a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ gilang-satriya-p-a138512a0" height="30" width="40" /></a>
 <a href="https://instagram.com/gilaaaang__1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gilaaaang__1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@keishinzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@keishinzz" height="30" width="40" /></a>
