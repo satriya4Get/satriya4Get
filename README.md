@@ -3,8 +3,6 @@
 
 - 💬 Ask me about **I'm still a student who is curious about the world of programming**
 
-- 📫 How to reach me **gilangsatriya10@gmail.com**
-
 - ⚡ Fun fact **I might be an adaptable person🤔**
 
 <h3 align="left">Connect with me:</h3>
