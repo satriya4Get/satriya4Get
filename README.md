@@ -18,4 +18,4 @@ gilang-satriya-p-a138512a0
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satriya1&show_icons=true&locale=en" alt="satriya1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satriya1&" alt="satriya1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satriya1&" alt="satriya1" /></p>.
