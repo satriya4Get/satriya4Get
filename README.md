@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gilang Satriya Pamungkas</h1>
 <h3 align="center">I'm still new to the world of programming 😁</h3>
 
-- 💬 Ask me about **I'm still a student who is curious about the world of programming**
+- 💬 Ask me about **I'm still a student who is curious about the world of programming**.
 
 - ⚡ Fun fact **I might be an adaptable person🤔**
 
