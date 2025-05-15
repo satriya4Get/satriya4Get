@@ -21,13 +21,13 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/gilang-satriya-p-a138512a0" target="_blank">
+  <a href="https://www.linkedin.com/in/gilang-satriya-p-a138512a0" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
   </a>
-  <a href="https://www.instagram.com/satriya__1/" target="_blank">
+  <a href="https://www.instagram.com/satriya__1/" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
   </a>
-  <a href="https://x.com/Buk4nWibu" target="_blank">
+  <a href="https://twitter.com/nama_pengguna_anda" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" />
   </a>
 </p>
