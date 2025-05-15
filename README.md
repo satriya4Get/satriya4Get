@@ -42,5 +42,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ba/66/5b/ba665b4f6682ed1d68bdfd6357a224ad.gif" width="200" alt="fun gif" />
+  <img src="[https://i.pinimg.com/originals/ba/66/5b/ba665b4f6682ed1d68bdfd6357a224ad.gif](https://i.pinimg.com/736x/3e/3d/00/3e3d004a4405934a2db2abaae86e10bd.jpg)" width="200" alt="fun gif" />
 </p>
