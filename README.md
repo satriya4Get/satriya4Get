@@ -1,12 +1,21 @@
-<h1 align="center">Hi 👋, I'm Gilang Satriya Pamungkas</h1>
+<h1 align="center">
+  Hi 👋, I'm Gilang Satriya Pamungkas
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+</h1>
 <h3 align="center">A passionate student learning to code 💻</h3>
 
 ---
 
 ### 💬 About Me
-- 🌱 I'm currently exploring the world of programming  
+- 🌱 Currently exploring the world of programming  
 - 🧠 Always curious and ready to learn new things  
-- ⚡ Fun fact: I might be an adaptable person 🤔
+- 🐈 Cat lover, game enjoyer, and future dev in progress  
+- ⚡ Fun fact: I'm probably fixing bugs at 2 AM right now 😅
+
+---
+
+### 🎧 Vibes Today
+> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F26D6D&center=false&vCenter=true&multiline=true&width=435&height=60&lines=Code.+Eat.+Game.+Chill.+Sleep.+Repeat.🔁" alt="Typing SVG" />
 
 ---
 
@@ -38,6 +47,11 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="30"/>
 </p>
+
+---
+
+### 🌟 Motto
+> *"Build what you love. Learn what you need. Share what you know."* ✨
 
 ---
 
