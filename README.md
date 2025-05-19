@@ -56,13 +56,3 @@
 </p>
 
 ---
-
-### 🌀 Bonus Animation (CSS for GitHub profile page only)
-
-<style>
-@keyframes pulse {
-  0% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.7; transform: scale(1.05); }
-  100% { opacity: 1; transform: scale(1); }
-}
-</style>
