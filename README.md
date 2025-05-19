@@ -51,7 +51,5 @@
 ### 🎉 Aesthetic Corner
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
+  <img src="https://i.pinimg.com/originals/3e/da/b5/3edab5240febd225ddd6b5c22bb333d2.gif" width="200" />
 </p>
