@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <span style="color:#F26D6D;">Gilang Satriya Pamungkas</span> 
+  Hi there, I'm <span style="color:#F26D6D; animation: pulse 2s infinite;">Gilang Satriya Pamungkas</span> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
 
@@ -20,15 +20,15 @@
 
 ### 🌐 Connect with Me
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/gilang-satriya-p-a138512a0" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/satriya__1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://twitter.com/nama_pengguna_anda" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 ### 🛠️ Tech Stack
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,php,java,flutter,dart,firebase,git,figma,unity" />
 </p>
 
@@ -44,13 +44,25 @@
 
 ### 🌟 Motto
 
-> **"Build what you love. Learn what you need. Share what you know."** ✨
+> <b>"Build what you love. Learn what you need. Share what you know."</b> ✨
 
 ---
 
 ### 🎉 Aesthetic Corner
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/3e/3d/00/3e3d004a4405934a2db2abaae86e10bd.jpg" width="200" alt="anime cute 1" />
-  <img src="https://i.pinimg.com/736x/ec/c0/f9/ecc0f90ff76d37d4df4e0ccd77f49284.jpg" width="200" alt="anime cute 2" />
+  <img src="https://i.pinimg.com/736x/3e/3d/00/3e3d004a4405934a2db2abaae86e10bd.jpg" width="200" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
+  <img src="https://i.pinimg.com/736x/ec/c0/f9/ecc0f90ff76d37d4df4e0ccd77f49284.jpg" width="200" style="margin-left: 10px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
 </p>
+
+---
+
+### 🌀 Bonus Animation (CSS for GitHub profile page only)
+
+<style>
+@keyframes pulse {
+  0% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+  100% { opacity: 1; transform: scale(1); }
+}
+</style>
