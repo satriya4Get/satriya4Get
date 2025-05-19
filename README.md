@@ -20,7 +20,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/gilang-satriya-p-a138512a0" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
