@@ -36,7 +36,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,php,java,flutter,dart,firebase,git,figma,unity" />
 </p>
 
