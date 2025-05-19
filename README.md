@@ -51,5 +51,6 @@
 ### 🎉 Aesthetic Corner
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3e/da/b5/3edab5240febd225ddd6b5c22bb333d2.gif" width="200" />
+  <img src="https://i.pinimg.com/736x/3e/3d/00/3e3d004a4405934a2db2abaae86e10bd.jpg" width="200" alt="anime cute 1" />
+  <img src="https://i.pinimg.com/736x/ec/c0/f9/ecc0f90ff76d37d4df4e0ccd77f49284.jpg" width="200" alt="anime cute 2" />
 </p>
