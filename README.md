@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <span style="color:#F26D6D;">Gilang Satriya Pamungkas</span> 👋  
+  Hi there, I'm <span style="color:#F26D6D;">Gilang Satriya Pamungkas</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
 
