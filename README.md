@@ -1,25 +1,24 @@
-<h1 align="center">
-  Hi there, I'm <span style="color:#F26D6D; animation: pulse 2s infinite;">Gilang Satriya Pamungkas</span> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&color=F26D6D&width=440&lines=Code.+Eat.+Game.+Sleep.+Repeat.🔁;Always+Learning+New+Things+🚀;Future+Dev+in+Progress...+💻" alt="Typing SVG" />
-</p>
+# Hi 👋, I'm Gilang Satriya Pamungkas
 
----
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 
-### 🌱 About Me
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&color=F26D6D&width=440&lines=Code.+Eat.+Game.+Sleep.+Repeat.+%F0%9F%94%81;Always+Learning+New+Things+%F0%9F%9A%80;Future+Dev+in+Progress...+%F0%9F%92%BB" alt="Typing SVG" />
 
-- 💻 Student & self-taught developer  
-- 🎮 Gamer | 🐱 Cat lover | ☕ Coffee believer  
-- 🚀 Currently exploring **Full-Stack Web** & **Game Development**  
-- 🐛 Fun fact: I might be debugging this README at 2AM 😅  
+</div>
 
----
+<br>
 
-### 🌐 Connect with Me
+## 🌱 About Me
+- 💻 Student & self-taught developer
+- 🎮 Gamer | 🐱 Cat lover | ☕ Coffee believer
+- 🚀 Currently exploring **Full-Stack Web** & **Game Development**
+- 🐛 Fun fact: I might be debugging this README at 2AM 😅
 
+<br>
+
+## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/gilang-satriya-p-a138512a0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -32,27 +31,31 @@
   </a>
 </p>
 
----
+<br>
 
-### 🛠️ Tech Stack
-
+## 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,php,java,flutter,dart,firebase,git,figma,unity" />
 </p>
 
----
+<br>
 
-### 🌟 Motto
-
-> <b>"Build what you love. Learn what you need. Share what you know."</b> ✨
-
----
-
-### 🎉 Aesthetic Corner
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://i.pinimg.com/736x/3e/3d/00/3e3d004a4405934a2db2abaae86e10bd.jpg" width="200" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
-  <img src="https://i.pinimg.com/736x/ec/c0/f9/ecc0f90ff76d37d4df4e0ccd77f49284.jpg" width="200" style="margin-left: 10px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satriya4Get&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satriya4Get&theme=radical&hide_border=true" width="49%" />
 </p>
 
----
+<br>
+
+## 🌟 Motto
+> **"Build what you love. Learn what you need. Share what you know."** ✨
+
+<br>
+
+<div align="center">
+
+<img src="https://i.pinimg.com/736x/3e/3d/00/3e3d004a4405934a2db2abaae86e10bd.jpg" width="200" style="border-radius: 15px;" />
+<img src="https://i.pinimg.com/736x/ec/c0/f9/ecc0f90ff76d37d4df4e0ccd77f49284.jpg" width="200" style="border-radius: 15px;" />
+
+</div>
