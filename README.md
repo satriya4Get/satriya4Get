@@ -67,28 +67,6 @@ currently_learning: "Selalu ada hal baru untuk dipelajari 🚀"
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satriya4Get&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=7" width="100%" />
-</p>
-
-<br>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satriya4Get&amp;theme=redical&amp;hide_border=true&amp;area=true" width="100%" />
-</p>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
 > 💡 *Catatan: animasi snake di atas butuh workflow GitHub Action terpisah agar aktif di repo kamu — beri tahu saya kalau mau saya buatkan file workflow-nya juga.*
 
 <br>
