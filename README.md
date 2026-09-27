@@ -48,10 +48,6 @@ currently_learning: "Selalu ada hal baru untuk dipelajari 🚀"
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,flutter,dart,firebase,git,figma,unity,vscode&amp;perline=6" />
-</p>
-
 <br>
 
 ## 📊 GitHub Stats
