@@ -1,7 +1,6 @@
 <div align="center">
 
 
-
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=F26D6D&amp;center=true&amp;vCenter=true&amp;width=460&amp;lines=Code.+Eat.+Game.+Sleep.+Repeat.+%F0%9F%94%81;Always+Learning+New+Things+%F0%9F%9A%80;Future+Dev+in+Progress...+%F0%9F%92%BB;Cat+Lover+%F0%9F%90%B1+%7C+Coffee+Believer+%E2%98%95" alt="Typing SVG" />
 
