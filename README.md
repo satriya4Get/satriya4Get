@@ -61,9 +61,6 @@ currently_learning: "Selalu ada hal baru untuk dipelajari 🚀"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satriya4Get&amp;theme=radical&amp;hide_border=true" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriya4Get&amp;layout=compact&amp;theme=radical&amp;hide_border=true" width="60%" />
-</p>
 
 <br>
 
