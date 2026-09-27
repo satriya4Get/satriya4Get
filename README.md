@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Hi%20there,%20I'm%20Gilang%20👋&amp;fontSize=42&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Web%20%26%20Game%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%" />
+
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=F26D6D&amp;center=true&amp;vCenter=true&amp;width=460&amp;lines=Code.+Eat.+Game.+Sleep.+Repeat.+%F0%9F%94%81;Always+Learning+New+Things+%F0%9F%9A%80;Future+Dev+in+Progress...+%F0%9F%92%BB;Cat+Lover+%F0%9F%90%B1+%7C+Coffee+Believer+%E2%98%95" alt="Typing SVG" />
