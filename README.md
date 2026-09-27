@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Gilang%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%26%20Game%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=Hi%20there,%20I'm%20Gilang%20👋&amp;fontSize=42&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Web%20%26%20Game%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%" />
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F26D6D&center=true&vCenter=true&width=460&lines=Code.+Eat.+Game.+Sleep.+Repeat.+%F0%9F%94%81;Always+Learning+New+Things+%F0%9F%9A%80;Future+Dev+in+Progress...+%F0%9F%92%BB;Cat+Lover+%F0%9F%90%B1+%7C+Coffee+Believer+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=F26D6D&amp;center=true&amp;vCenter=true&amp;width=460&amp;lines=Code.+Eat.+Game.+Sleep.+Repeat.+%F0%9F%94%81;Always+Learning+New+Things+%F0%9F%9A%80;Future+Dev+in+Progress...+%F0%9F%92%BB;Cat+Lover+%F0%9F%90%B1+%7C+Coffee+Believer+%E2%98%95" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=satriya4Get&style=for-the-badge&color=f26d6d&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/satriya4Get?style=for-the-badge&color=f26d6d&labelColor=1a1a2e" />
+<img src="https://komarev.com/ghpvc/?username=satriya4Get&amp;style=for-the-badge&amp;color=f26d6d&amp;label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/satriya4Get?style=for-the-badge&amp;color=f26d6d&amp;labelColor=1a1a2e" />
 
 </div>
 
@@ -35,13 +35,13 @@ currently_learning: "Selalu ada hal baru untuk dipelajari 🚀"
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gilang-satriya-p-a138512a0" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   <a href="https://www.instagram.com/satriya__1/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" />
   </a>
   <a href="https://twitter.com/nama_pengguna_anda" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@ currently_learning: "Selalu ada hal baru untuk dipelajari 🚀"
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,flutter,dart,firebase,git,figma,unity,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,flutter,dart,firebase,git,figma,unity,vscode&amp;perline=6" />
 </p>
 
 <br>
@@ -58,12 +58,12 @@ currently_learning: "Selalu ada hal baru untuk dipelajari 🚀"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satriya4Get&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satriya4Get&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satriya4Get&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satriya4Get&amp;theme=radical&amp;hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriya4Get&layout=compact&theme=radical&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satriya4Get&amp;layout=compact&amp;theme=radical&amp;hide_border=true" width="60%" />
 </p>
 
 <br>
@@ -71,7 +71,7 @@ currently_learning: "Selalu ada hal baru untuk dipelajari 🚀"
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satriya4Get&theme=radical&no-frame=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=satriya4Get&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=7" width="100%" />
 </p>
 
 <br>
@@ -79,7 +79,7 @@ currently_learning: "Selalu ada hal baru untuk dipelajari 🚀"
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satriya4Get&theme=redical&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satriya4Get&amp;theme=redical&amp;hide_border=true&amp;area=true" width="100%" />
 </p>
 
 <br>
@@ -111,6 +111,6 @@ currently_learning: "Selalu ada hal baru untuk dipelajari 🚀"
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%" />
 
 </div>
